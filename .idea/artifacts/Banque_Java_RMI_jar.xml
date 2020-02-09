@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Banque-Java-RMI:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Banque_Java_RMI_jar</output-path>
+    <root id="archive" name="Banque-Java-RMI.jar">
+      <element id="module-output" name="Banque-Java-RMI" />
+    </root>
+  </artifact>
+</component>
